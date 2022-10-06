@@ -1,1 +1,2 @@
-# turma-1aa
+# turma-1a
+Arquivos da aula de Pensamento Computacional
